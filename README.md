@@ -1,14 +1,14 @@
 
 
 
-### Hi there 👋 I'm Will.
+I'm Will.
 
 
-- 🔭 I’m currently working on finishing my Bachelor of Science in Computer Science, as well as the CompTIA PenTest+ certification.
-- 🌱 I’m currently learning about penetration testing, AI, and cloud computing.
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [Will Frame](https://www.linkedin.com/in/will-frame-2b1299277/) on Linkedin, or email @ [me@wpfra.me](mailto:me@wpfra.me)
-- 📝 You can also check out my LeetCode ([wpframe](https://leetcode.com/wpframe/))
+- I’m currently working on finishing my Bachelor of Science in Computer Science, as well as the CompTIA PenTest+ certification.
+- I’m currently learning about penetration testing, AI, and cloud computing.
+- I’m looking to collaborate on open source projects.
+- How to reach me: [Will Frame](https://www.linkedin.com/in/will-frame-2b1299277/) on Linkedin, or email @ [me@wpfra.me](mailto:me@wpfra.me)
+- You can also check out my LeetCode ([wpframe](https://leetcode.com/wpframe/))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
