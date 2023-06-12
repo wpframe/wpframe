@@ -7,7 +7,7 @@ I'm Will.
 - I’m currently working on finishing my Bachelor of Science in Computer Science.
 - I’m currently learning about penetration testing, AI, and cloud computing.
 - I’m looking to collaborate on open source projects.
-- How to reach me: [Will Frame](https://www.linkedin.com/in/will-frame-2b1299277/) on Linkedin, or email @ [me@wpfra.me](mailto:me@wpfra.me)
+- How to reach me: [Will Frame](https://www.linkedin.com/in/will-frame-2b1299277/) on Linkedin, or email @ [will@wpf.nz](mailto:will@wpf.nz)
 
 
 <h3 align="left">Proficient in:</h3>
